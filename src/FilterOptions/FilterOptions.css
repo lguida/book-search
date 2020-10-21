@@ -1,0 +1,9 @@
+.filter_form{
+    text-align: center;
+    padding: 5px;
+    background-color: lightgrey;
+}
+
+label {
+    padding: 5px;
+}
